@@ -1,0 +1,36 @@
+{
+  "minimum_similarity_threshold": 50,
+  "skills_weights": {
+    "technical": 0.7,
+    "soft": 0.3
+  },
+  "section_weights": {
+    "personal_info": 0.1,
+    "education": 0.2,
+    "experience": 0.4,
+    "skills": 0.2,
+    "projects": 0.05,
+    "certifications": 0.05
+  },
+  "stopwords_enabled": true,
+  "lemmatization_enabled": false,
+  "dark_theme": false,
+  "font": {
+    "family": "Segoe UI",
+    "pointSize": 10,
+    "weight": 50,
+    "italic": false,
+    "bold": false
+  },
+  "language_priority": 0,
+  "minimum_experience_years": 0,
+  "require_degree": false,
+  "require_experience": false,
+  "required_Skills": "",
+  "education_level_filter": 0,
+  "recent_experience_only": false,
+  "case_sensitive": false,
+  "max_threads": 4,
+  "cache_results": true,
+  "show_selected_cv_summary": false
+}
